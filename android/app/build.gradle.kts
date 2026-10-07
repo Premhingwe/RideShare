@@ -11,8 +11,8 @@ android {
     namespace = "com.example.ride_share_app"
     compileSdk = flutter.compileSdkVersion
 
-    // Firebase aur baaki plugins ke liye required NDK
-    ndkVersion = "27.0.12077973"
+    // Mappls ke liye required NDK
+    ndkVersion = "28.1.13356709"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
